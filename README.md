@@ -11,19 +11,16 @@
 </div>
 
 
-
 ## Sobre este projeto
 <br>
 
-> Um desafio pessoal de criar sozinho uma barra de navegação vertical e interativa com os recursos que tenho familiaridade. <a href="">🔗Clique aqui!</a>
+> Um desafio pessoal de criar sozinho uma barra de navegação vertical e interativa com recursos que tenho familiaridade. <a href="">🔗Clique aqui!</a>
 
 ## Status ✌️
-<br>
 
  **Concluído 🚀💻
 
 ## Recursos & Ferramentas 
-<br>
 
 * Git<br>
 * Github<br>
@@ -35,7 +32,6 @@
 * Fonts Google
 
 ## O quê aprendi? 🙋‍♂️
-<br>
 
 * Criar uma arte para menu de navegação do menu<br>
 
@@ -52,7 +48,6 @@
 - Desenvolvimento Web Completo 2021 + 20 projetos -[Udemy](https://www.udemy.com/share/101WqG2@Pm1KfUtjSVcKdEFLAHJOVBRuSlc=/)
 
 ## Autor do projeto 👊
-<br>
 
 ### Leonardo Araújo <br>
 **Universitário 🧑‍🎓 de Sistemas de Informação 💻**
