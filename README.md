@@ -37,6 +37,8 @@
 
 * Compreesão de posicionamento<br>
 
+* Testes pelo navegador (DeveTools)
+
 * Compreesão de classes<br>
 
 * Lógica e sequência de interatividade durante navegação<br>
