@@ -28,7 +28,7 @@
 * Paint (aplicação do Windown<br>
 * CSS<br>
 * Html
-* Icones online - [Flaticon](https://www.flaticon.com/br/)
+* Ícones online - [Flaticon](https://www.flaticon.com/br/)
 * Fonts Google
 
 ## O quê aprendi? 🙋‍♂️
