@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Otomanopee+One&display=swap');
+
+
+
+
+#container {
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        font-family: 'Caveat', cursive, sans-serif;
+}
+
+.container-titulo {
+    font-weight: 900;
+}
+
+
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    font-family: 'Otomanopee One', sans-serif;
+}
+
+img {
+    position: absolute;
+    left: 9px;
+    top: 18px;
+}
+
+span {
+    position: absolute;
+    left: 90px;
+    top: 24px;
+    font-size: 2em;
+    color: #fff;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul a {
+    display: block;
+    width: 399px;
+    height: 100px;
+    position: relative;
+    background: url(../img/background.png) no-repeat left center;
+}
+
+a:hover {
+    background-position: right bottom;
+
+}
+
+    
