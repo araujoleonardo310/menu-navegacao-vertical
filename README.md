@@ -1,15 +1,17 @@
-<h1>Barra de Navegação Vertical e Interativa 🖱️💻</h1>
+<h1>Barra de Navegação Vertical e Interativa</h1>
 
-<img src="" aling="center">
+<img src="demost/menu-demostracao.gif" aling="center">
 
 
 ## Sobre este projeto
-> É um desafio pessoal de criar sozinho uma barra de navegação vertical e interativa com usuário. <a href="">🔗Clique aqui!</a>
+<br>
+
+> Um desafio pessoal de criar sozinho uma barra de navegação vertical e interativa com os recursos que tenho familiaridade. <a href="">🔗Clique aqui!</a>
 
 ## Status ✌️
 <br>
 
- **Em Andamento 🚧🚨
+ **Concluído 🚀💻
 
 ## Recursos & Ferramentas 
 
@@ -37,5 +39,5 @@
 **Universitário 🧑‍🎓 de Sistemas de Informação 💻**
 <hr>
 
-***"Os desafios não são ruins, se você decidir crescer com eles, e não cair com eles 🤙"*** 
+***"Os desafios não são ruins se... VOCÊ decidir CRESCER com eles 🌠✨🚶‍♂️"*** 
 
