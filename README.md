@@ -25,7 +25,7 @@
 * Git<br>
 * Github<br>
 * Visual Studio Code<br>
-* Paint (aplicação do Windown<br>
+* Paint (aplicação do Windows)<br>
 * CSS<br>
 * Html
 * Ícones online - [Flaticon](https://www.flaticon.com/br/)
