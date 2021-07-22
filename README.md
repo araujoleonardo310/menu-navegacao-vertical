@@ -18,7 +18,7 @@
 
 ## Status ✌️
 
- **Concluído 🚀💻
+ **Concluído** 🚀💻
 
 ## Recursos & Ferramentas 
 
@@ -33,15 +33,15 @@
 
 ## O quê aprendi? 🙋‍♂️
 
-* Criar uma arte para menu de navegação do menu<br>
+* Criar uma arte para menu de navegação<br>
 
-* Compreesão de posicionamento<br>
+* Compreensão de posicionamento<br>
 
 * Testes pelo navegador (DeveTools)
 
-* Compreesão de classes<br>
+* Compreensão de classes<br>
 
-* Lógica e sequência de interatividade durante navegação<br>
+* Lógica e sequência de navegação<br>
 
 
 ## 🐧🖖 Créditos & 🔗 Referências 
