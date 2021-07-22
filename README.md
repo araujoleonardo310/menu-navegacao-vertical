@@ -3,9 +3,12 @@
 <img src="demost/menu-demostracao.gif" aling="center">
 <br>
 
+<div align=center>
 
+ <img src="https://github-readme-stats.vercel.app/api?username=araujoleonardo310&theme=dark&show_icons=true" height="150em" align=center>&nbsp;
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&layout=compact" height="150em" align=center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=araujoleonardo310&layout=compact)](https://github.com/araujoleonardo310/menu-navegacao-vertical)
+</div>
 
 
 
