@@ -47,7 +47,7 @@
 ## 🐧🖖 Créditos & 🔗 Referências 
 <br>
 
-- Desenvolvimento Web Completo 2021 + 20 projetos -[Udemy](https://www.udemy.com/share/101WqG2@Pm1KfUtjSVcKdEFLAHJOVBRuSlc=/)
+- Desenvolvimento Web Completo 2021 + 20 projetos - [Udemy](https://www.udemy.com/share/101WqG2@Pm1KfUtjSVcKdEFLAHJOVBRuSlc=/)
 
 ## Autor do projeto 👊
 
