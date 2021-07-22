@@ -14,7 +14,7 @@
 ## Sobre este projeto
 <br>
 
-> Um desafio pessoal de criar sozinho uma barra de navegação vertical e interativa com recursos que tenho familiaridade. <a href="">🔗Clique aqui!</a>
+> Um desafio pessoal de criar sozinho uma barra de navegação vertical e interativa com recursos que tenho familiaridade. <a href="https://araujoleonardo310.github.io/menu-navegacao-vertical/">🔗Clique aqui!</a>
 
 ## Status ✌️
 
